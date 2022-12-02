@@ -1,0 +1,47 @@
+[
+    {
+        "First_Name" : "AL JUDE",
+        "Last_Name" : "TUBATO",
+        "Age" : "23",
+        "Address" : "PAVIA",
+        "Contact_Number" : "09099295543"
+    },
+  
+    {
+        "Friends List" : [
+          {
+              "Name": "monique",
+              "Age": "21",
+              "Address": "Pavia",
+              "Likes" :"SINGING",
+              "Dislikes" : "Filipino Subject", 
+              "Feeling" : "Tired"
+          },
+          {
+            "Name": "Nerma",
+            "Age": "21",
+            "Address": "Antique",
+            "Likes" :"SINGING",
+            "Dislikes" : "Filipino Subject", 
+            "Feeling" : "Tired"
+        },
+          {
+            "Name": "Eliah",
+            "Age": "22",
+            "Address": "Pavia",
+            "Likes" :"Dancing ",
+            "Dislikes" : " FIlipino", 
+            "Feeling" : " Tired"
+          },
+          {
+            "Name": "Christian",
+            "Age": "22",
+            "Address": "Guimaras",
+            "Likes" :"Playing Video Games",
+            "Dislikes" : "Math", 
+            "Feeling" : "Tired"
+          }]
+      }
+ 
+]
+
